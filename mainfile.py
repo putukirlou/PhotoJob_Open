@@ -2,7 +2,7 @@ from PyQt5.QtWidgets import QApplication, QWidget, QLabel, QPushButton, QFileDia
 from PyQt5.QtGui import QPixmap, QColor, QTransform
 from PyQt5 import QtWidgets, QtCore
 from PyQt5.QtWidgets import QApplication, QFileDialog
-
+# from PyQt5.QtGui import QImageWriter, QKeyEvent
 
 import sqlite3
 import sys
